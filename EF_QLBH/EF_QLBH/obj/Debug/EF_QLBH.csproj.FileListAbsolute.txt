@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\bin\Debug\EF_QLBH.exe.config
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\bin\Debug\EF_QLBH.exe
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\bin\Debug\EF_QLBH.pdb
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\obj\Debug\EF_QLBH.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\obj\Debug\EF_QLBH.Frm_SP.resources
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\obj\Debug\EF_QLBH.Properties.Resources.resources
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\obj\Debug\EF_QLBH.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\obj\Debug\EF_QLBH.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\obj\Debug\EF_QLBH.csproj.CopyComplete
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\obj\Debug\EF_QLBH.exe
+C:\Users\Administrator\source\repos\EF_QLBH\EF_QLBH\obj\Debug\EF_QLBH.pdb
